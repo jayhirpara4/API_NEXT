@@ -1,0 +1,11 @@
+{
+  "name": "api_next",
+  "version": "1.0.0",
+  "description": "This is testing API first PRO",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.ts"
+  },
+  "author": "Jay H <jayhirpara948@gmail.com>",
+  "license": "ISC"
+}
